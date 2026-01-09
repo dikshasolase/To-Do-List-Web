@@ -4,6 +4,7 @@ A simple web-based To-Do application that allows users to manage their daily tas
 
 Features
 
+
 Add Tasks 
 
 Pending Tasks
@@ -17,6 +18,7 @@ Delete Tasks
 Mark as Complete 
 
 Timestamps
+
 
 Screenshots
 
