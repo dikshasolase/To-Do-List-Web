@@ -1,8 +1,8 @@
-#📝 Daily To-Do App
+📝 Daily To-Do App
 
 A simple web-based To-Do application that allows users to manage their daily tasks efficiently. Users can add, edit, complete, and delete tasks, with tasks organized into Pending and Completed lists.
 
-#Features
+Features
 
 Add Tasks 
 
@@ -19,7 +19,7 @@ Mark as Complete
 Timestamps
 
 
-#Screenshots
+Screenshots
 
 <img width="1440" height="511" alt="image" src="https://github.com/user-attachments/assets/8051f3ef-ccd3-4abd-8359-cbdbfefa2e16" />
 
